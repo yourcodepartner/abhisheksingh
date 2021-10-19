@@ -298,15 +298,15 @@ a:hover, a:active, a:focus {
 }
 
 .main-contact {
-  background: url('../images/contactbg.jpg') no-repeat;
+  background: url('../images/contactimg.jpg') no-repeat;
 }
 .comman-queries{
   font-size: 3vh;
-  color: rgb(41, 41, 41);
+  color: grey;
   align-items: center;
   justify-content: center;
   padding-top: 9vh;
-  margin-left: 20%;
+  margin-left: 18%;
 }
 #particles-js {
   position: absolute;
@@ -819,8 +819,8 @@ footer .footer-copyright {
 }
 
 .social-icon li a {
-    border: 2px solid #292929;
-    color: #292929;
+    border: 2px solid #ffffff;
+    color: #ffffff;
     border-radius: 100px;
     cursor: pointer;
     font-size: 16px;
